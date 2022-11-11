@@ -1,6 +1,6 @@
 # Click counter React / Freecodecamp 
 
-This is a practice project to learn React by making a Click Counter react app, based in a freecodecamp lesson https://www.youtube.com/watch?v=6Jfk8ic3KVk
+🎈 This is a practice project to learn React by making a Click Counter react app, based in a freecodecamp lesson https://www.youtube.com/watch?v=6Jfk8ic3KVk
 
 ## Table of contents
 
